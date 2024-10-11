@@ -8,7 +8,7 @@ public class Main {
 
         int Square = n * n;
         System.out.println(Square);
-        if(Square < 5){
+        if(n < 5){
             System.out.print("tiny");
         }
     }
